@@ -1,9 +1,8 @@
 # Wireless Lab
 
-Name: Wayne Tsai
-NetID: wetsai
-
-**GitHub Repository**: 
+**Name:** Wayne Tsai
+**NetID:** wetsai
+**GitHub Repository**: https://github.com/wayne-tsai/hslab 
 
 ---
 
